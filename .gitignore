@@ -10,3 +10,7 @@ venv/
 # SQLite
 *.db
 instance/
+
+
+# Custom ignores
+docs/
